@@ -1,12 +1,12 @@
 basic:
-    name: 'Lauriane Dickinson'
+    name: 'Carmen Will'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.bartell.com/aut-dicta-labore-hic-voluptatibus'
-        - 'https://nienow.com/consequuntur-reprehenderit-voluptatem-sequi-quae.html'
+        - 'https://beatty.com/esse-praesentium-culpa-minus-voluptatem-sit-ut-consequatur.html'
+        - 'https://www.kulas.com/nobis-unde-ut-eveniet'
     monitoring:
         days: {  }
         type: ''
@@ -22,9 +22,14 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: ''
+    sensitivity: 15
+    night_mode: ''
+    retina_images: ''
     performance:
         workers_production: 30
         workers_nonproduction: 10
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
+proxy: false
+type: multiple-sites
